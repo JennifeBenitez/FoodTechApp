@@ -17,3 +17,12 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  fonts:
+    - family: Actor
+      fonts:
+        - asset: assets/fonts/Actor-Regular.ttf
+
+    - family: Allerta
+      fonts:
+        - asset: assets/fonts/Allerta-Regular.ttf
